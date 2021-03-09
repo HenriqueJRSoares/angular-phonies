@@ -1,0 +1,6 @@
+input[type="text"]:hover,
+:focus {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #26cfa5;
+}
